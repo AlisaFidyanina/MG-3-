@@ -1,11 +1,10 @@
 .trophies {
   display: flex;
   flex-direction: column-reverse;
-  margin: auto;
 }
 
 .trophy {
   width: 33%;
-  margin: 0 auto 3% auto;
+  margin: 0 33% 3% 33%;
 }
 
